@@ -1,41 +1,30 @@
-# OpenXE - The free ERP
-
-![OpenXE overview](https://github.com/openxe-org/OpenXE/blob/master/www/themes/new/images/login_screen_picture.jpg "OpenXE")
-
-OpenXE ist eine umfassende webbasierte Anwendung zur Abwicklung aller kaufmännischen Prozesse. Zu den Funktionen gehören unter Anderem:
-
-* Erstellung von Angeboten
-* Auftragsabwicklung
-* Rechnungsstellung
-* Bestellung
-* Lagerverwaltung
-* Kundenkommunikation
-* Aufgaben- und Terminverwaltung
-* Zeitabrechnung
-
-# Neue Community-Seite: https://openxe.org/
-
-An alle Interessenten:
-
-Dieses Projekt startet mit einer leistungsfähigen Software, aber gerade am Anfang ist es schwierig, die potenziellen Anwender abzuschätzen. Das ist jedoch eine wichtige Information und auch Motivation für alle, die sich aktiv am Projekt beteiligen. Wir bitten daher, alle Interessenten für OpenXE, sich hier anzumelden. Die Anmeldung ist kostenfrei und mit keinerlei Verpflichtungen versehen. Ausserdem habt Ihr den Vorteil, Euch bei Fragen direkt im Communitybereich zu melden oder selber aktiv mitzugestalten.
-
-Wir freuen uns über Eure Teilnahme, egal ob als stiller Mitleser oder aktiver User.
-
-# Letzte Änderungen: Ticket System
-
-Neu in [V.1.3](https://github.com/openxe-org/OpenXE/releases/tag/V.1.3):
-Neuimplementierung des Xentral 20 Enterprise Ticketsystems mit vielen Verbesserungen, z.B.:
-- Anhänge werden auch bei ausgehenden Nachrichten gespeichert
-- Verbesserte Kommentarfunktion
-- Unterstützung mehrerer Empfänger und CC
-- Verbesserte Stapelverarbeitung
-
-# Installation
-
-[Hier gehts zur Server Installation](SERVER_INSTALL.md)
-
-[Hier gehts zur OpenXE Installation](INSTALL.md)
-
-OpenXE ist freie Software, lizensiert unter der EGPL 3.1.
-Diese Software ist eine Ableitung und Veränderung von WaWision ERP. WaWision ERP wurde von embedded projects GmbH entwickelt und steht unter der EGPLv3.1-Lizenz als Open Source Software. Informationen zu WaWision und der Open-Source Version findet man unter http://www.wawision.de
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenXE - 免费的 ERP</font></font></h1><a id="user-content-openxe---the-free-erp" class="anchor" aria-label="永久链接：OpenXE - 免费的 ERP" href="#openxe---the-free-erp"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/openxe-org/OpenXE/blob/master/www/themes/new/images/login_screen_picture.jpg"><img src="https://github.com/openxe-org/OpenXE/raw/master/www/themes/new/images/login_screen_picture.jpg" alt="OpenXE 概述" title="开放XE" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenXE 是一个基于 Web 的综合应用程序，用于处理所有商业流程。这些功能包括：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建报价</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">订单处理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开具发票</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">仓库管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">客户沟通</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">任务和约会管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">时间核算</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">新社区页面：</font></font><a href="https://openxe.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://openxe.org/</font></font></a></h1><a id="user-content-neue-community-seite-httpsopenxeorg" class="anchor" aria-label="永久链接：新社区页面：https://openxe.org/" href="#neue-community-seite-httpsopenxeorg"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">致所有感兴趣的各方：</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目以功能强大的软件开始，但特别是在开始时很难估计潜在用户。然而，这对于每个积极参与该项目的人来说都是重要的信息和动力。因此，我们要求所有对 OpenXE 感兴趣的人在这里注册。注册是免费的，并且没有任何义务。如果您有任何疑问或积极帮助自己解决问题，您还可以直接在社区区域联系我们。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们期待您的参与，无论是作为沉默的读者还是活跃的用户。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新变化：票务系统</font></font></h1><a id="user-content-letzte-änderungen-ticket-system" class="anchor" aria-label="永久链接：最近的变化：票务系统" href="#letzte-änderungen-ticket-system"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://github.com/openxe-org/OpenXE/releases/tag/V.1.3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">V.1.3</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中的新增功能</font><font style="vertical-align: inherit;">：Xentral 20 Enterprise 票务系统的新实施，具有许多改进，例如：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">还保存外发消息的附件</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">改进评论功能</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">支持多个接收器和CC</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">改进的批处理</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h1><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="/OpenXE-org/OpenXE/blob/master/SERVER_INSTALL.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点击此处安装服务器</font></font></a></p>
+<p dir="auto"><a href="/OpenXE-org/OpenXE/blob/master/INSTALL.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">点击此处安装 OpenXE</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenXE 是免费软件，根据 EGPL 3.1 授权。该软件是WaWision ERP的衍生和修改。 WaWision ERP 由Embedded Projects GmbH 开发，可根据 EGPLv3.1 许可证作为开源软件使用。有关 WaWision 和开源版本的信息，请访问</font></font><a href="http://www.wawision.de" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://www.wawision.de</font></font></a></p>
+</article></div>
